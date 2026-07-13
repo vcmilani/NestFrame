@@ -111,9 +111,10 @@
 			};
 			buildConfigurationList = AA600002 /* Build configuration list for PBXProject "NestFrame" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = pt-BR;
+			developmentRegion = "pt-BR";
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				"pt-BR",
 				en,
 				Base,
 			);
@@ -353,7 +354,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
 	};
 	rootObject = AA800001 /* Project object */;
 }
